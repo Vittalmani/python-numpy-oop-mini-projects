@@ -1,5 +1,5 @@
 # Python NumPy OOP Mini Projects
-# Python, NumPy & OOP Tasks
+
 
 ## Overview
 
